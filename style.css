@@ -1,0 +1,307 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: #f4f4f4;
+  margin-left: 100px;
+  box-sizing: border-box;
+  width: 1000px;
+
+
+}
+
+.container{
+
+  width:100%;
+  height: 100px;
+}
+header{
+
+}
+
+.logo{
+
+  background-image: url(voretex1.png);
+  background-size: 30px 30px;
+  background-color: black;
+
+
+}
+header nav ul{
+  list-style: none;
+  width: 790px;
+  height: 60px;
+  background-color: #d0f8da;
+  border-bottom: 10px solid;
+  border-color: #f4f4f4;
+  margin-left: 300px;
+  padding-left: 230px;
+
+}
+
+header nav ul li{
+
+  padding: 10px;
+  padding-top: 10px;
+  display: inline-block;
+  margin-top: 10px;
+  border: 1px;
+  border-color: black;
+  border-style: ridge;
+  margin-left: 30px;
+
+}
+
+header nav ul li a{
+  text-decoration: none;
+
+}
+.header_logo{
+  float: left;
+  width: 300px;
+  height: 378px;
+  background-image: url(voretex1.png);
+  background-size: 300px 300px;
+  background-color: Pink;
+}
+nav{
+  margin-right: 100px;
+}
+
+.main_image{
+  width: 1020px;
+  height: 330px;
+  margin-left: 300px;
+  background-image: url(img/head.jpg);
+  background-size: 500px 300px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #d0f8da;
+}
+.navigation{
+
+  margin-top: 280px;
+  border-top: 10px solid;
+  border-color: #f4f4f4;
+}
+
+.navigation ul{
+  padding: 10px;
+  width: 100%;
+  height: 50px;
+  list-style: none;
+  background-color: #d0f8da;
+  box-sizing: border-box;
+
+}
+
+.navigation ul li{
+    padding:10px;
+    display: inline-block;
+    margin-left: 10px;
+    border: 1px solid;
+    border-color: black;
+    border-right-style: groove;
+}
+
+.navigation ul li a{
+  text-decoration: none;
+
+}
+
+.empty_1{
+  width: 1000px;
+  height: 100px;
+  color: black;
+}
+
+section{
+  float:left;
+  width: 900px;
+  height:600px;
+}
+
+.hot_article{
+
+  margin-bottom: 30px;
+  background-color: #d0f8da;
+
+}
+
+.title{
+
+}
+
+.hot_article h2{
+  width: 10px;
+  height: 1px;
+  background-color: black;
+
+}
+
+.content{
+  width: 520px;
+  height:90px;
+  margin-top: 140px;
+  margin-left: 100px;
+  background-color: yellow;
+  float:left;
+}
+
+
+.hot_article p{
+  float: right;
+  background-color: blue;
+
+}
+
+.hot_article h3{
+  margin-top: 40px;
+  float: right;
+}
+
+.hot_article ul{
+  list-style: none;
+  height: 50px;
+  margin-top: 250px;
+  background-color: white;
+  width: 600px;
+  padding-left: 100px;
+  box-sizing: border-box;
+}
+
+.hot_article ul li{
+
+  display: inline-block;
+  margin-left: 50px;
+
+}
+
+.hot_article ul li a{
+  text-decoration: none;
+}
+
+.hot_article button{
+  float: right;
+  margin-bottom: 10px;
+
+}
+
+
+
+.trending_article{
+
+  margin-bottom: 30px;
+  background-color: #d0f8da;
+
+}
+
+.trending_article h2{
+  width: 10px;
+  height: 1px;
+  background-color: black;
+
+}
+
+
+.trending_article p{
+  float: right;
+  background-color: blue;
+
+}
+
+.trending_article h3{
+  margin-top: 40px;
+  float: right;
+}
+
+.trending_article ul{
+  list-style: none;
+  height: 50px;
+  margin-top: 250px;
+  background-color: white;
+  width: 600px;
+  padding-left: 100px;
+  box-sizing: border-box;
+}
+
+.trending_article ul li{
+
+  display: inline-block;
+  margin-left: 50px;
+
+}
+
+.trending_article ul li a{
+  text-decoration: none;
+}
+
+.trending_article button{
+  float: right;
+  margin-bottom: 10px;
+
+}
+
+.fav_article{
+
+  margin-bottom: 30px;
+  background-color: #d0f8da;
+
+}
+
+.fav_article h2{
+  width: 10px;
+  height: 1px;
+  background-color: black;
+
+}
+
+
+.fav_article p{
+  float: right;
+  background-color: blue;
+
+}
+
+.fav_article h3{
+  margin-top: 40px;
+  float: right;
+}
+
+.fav_article ul{
+  list-style: none;
+  height: 50px;
+  margin-top: 250px;
+  background-color: white;
+  width: 600px;
+  padding-left: 100px;
+  box-sizing: border-box;
+}
+
+.fav_article ul li{
+
+  display: inline-block;
+  margin-left: 50px;
+
+}
+
+.fav_article ul li a{
+  text-decoration: none;
+}
+
+.fav_article button{
+  float: right;
+  margin-bottom: 10px;
+
+}
+
+
+.sideBar{
+  float: right;
+  background-color: #d0f8da;
+  width: 200px;
+  margin-left: 300px;
+
+}
